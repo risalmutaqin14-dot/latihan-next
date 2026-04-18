@@ -5,7 +5,7 @@ export const logos = {
 }
 export const images = {
   placholder : "/assets/placeholder.webp",
-  heroImage: "/assets/hero-latihanID.webp",
+  heroImage: "/assets/hero-latihanID (1).webp",
   user : "/assets/user.webp",
   mockup1 : "/assets/mockup_latihan.webp",
   mockup2 : "/assets/mockup1.webp"

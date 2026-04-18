@@ -16,11 +16,11 @@ const id = {
     language: "Bahasa",
   },
   hero: {
-    span: "Platform Ujian Online & CBT Terpercaya",
-    title: "Aplikasi Ujian Online dengan Sistem Proctoring Canggih",
+    span: "Platform CBT untuk Ujian Online yang aman dan mudah digunakan ",
+    title: "Latihan.id adalah Solusi Lengkap untuk Sistem Ujian Online Berbasis CBT",
     description:
-      "Latihan.id adalah solusi ujian online berbasis CBT (Computer Based Test) yang dirancang untuk kebutuhan sekolah, kampus, dan lembaga pelatihan. Dilengkapi fitur proctoring otomatis, anti-cheat system, dan laporan analisis hasil ujian yang detail, Latihan.id membantu Anda menyelenggarakan ujian secara aman, adil, dan efisien.",
-    cta: "Jelajahi Lebih Lanjut",
+      "Latihan.id adalah platform Computer-Based Testing (CBT) yang dirancang untuk sekolah atau institusi yang membutuhkan sistem ujian online yang aman, stabil, dan scalable untuk berbagai kebutuhan asesmen. Digunakan untuk kuis harian, ujian tengah semester, ujian akhir, hingga kompetisi berbasis ujian dengan sistem aman dan canggih.",
+    cta: "Konsultasi dengan Tim Kami",
     btn_download: "Unduh Aplikasi",
     images: {
       user_active:
@@ -30,23 +30,23 @@ const id = {
     },
   },
   About: {
-    title: "Kenapa Memilih Latihan.id untuk Ujian berbasis Computer Based Test (CBT)?",
+    title: "Mengapa Memilih Latihan.id untuk Ujian Berbasis Computer-Based Test (CBT)?",
     description:
-      "Latihan.id adalah platform CBT (Computer Based Test) yang dirancang untuk mendukung ujian online, kuis harian, dan evaluasi pembelajaran secara aman dan terintegrasi. Terhubung langsung dengan Edunav LMS, Latihan.id menghadirkan sistem ujian digital yang stabil, efisien, dan mudah digunakan oleh sekolah maupun institusi pendidikan. Dilengkapi fitur keamanan tingkat lanjut seperti sistem anti-cheating, deteksi pelanggaran otomatis, perekaman kamera berbasis server, serta dukungan penuh Safe Exam Browser (SEB), Latihan.id memastikan setiap ujian berlangsung adil, terkontrol, dan terpercaya.",
+      "Latihan.id adalah platform Computer-Based Testing (CBT) yang dirancang untuk institusi pendidikan yang membutuhkan sistem ujian online dengan tingkat keamanan, stabilitas, dan kontrol yang tinggi. Latihan.id menghadirkan sistem ujian digital yang mampu mendukung berbagai kebutuhan asesmen, mulai dari kuis harian hingga ujian berskala besar dengan alur yang terstruktur dan terpusat. Dilengkapi dengan fitur keamanan tingkat lanjut seperti sistem anti-cheating, deteksi pelanggaran otomatis, perekaman kamera berbasis server, serta dukungan penuh untuk Safe Exam Browser (SEB), Latihan.id memastikan setiap pelaksanaan ujian berjalan dengan adil , stabil dan terkontrol.",
     feature: {
       1: {
-        title: "Fitur Lengkap & Terintegrasi",
+        title: "Fitur Lengkap",
         description:
-          "Mendukung berbagai jenis soal (pilihan ganda, esai, hingga soal kompleks) dan dilengkapi dengan sistem keamanan anti-curang. Semua alat yang Anda butuhkan untuk manajemen ujian tersedia di satu platform.",
+          "Mendukung berbagai tipe soal, mulai dari pilihan ganda, essay, hingga soal kompleks dalam satu sistem terpusat. Dilengkapi dengan mekanisme keamanan anti-cheating, Latihan.id memastikan seluruh proses ujian berjalan terkontrol, efisien, dan aman dalam satu platform CBT.",
         ALT: "Preview antarmuka Latihan.id, solusi aplikasi ujian online (CBT) yang aman dan terintegrasi.",
       },
       2: {
-        title: "Antarmuka Intuitif & Mudah Digunakan",
+        title: "Antarmuka Intuitif",
         description:
-          "Dirancang dengan tampilan user-friendly, sehingga dapat digunakan oleh siapa saja. Mulai dari membuat soal hingga pelaksanaan ujian, semuanya dapat dilakukan dengan cepat tanpa memerlukan keahlian teknis khusus.",
+          "Dirancang dengan antarmuka yang terstruktur dan mudah dioperasikan, memungkinkan tim akademik mengelola ujian dengan cepat tanpa proses yang rumit. Mulai dari pembuatan soal, pengaturan ujian, hingga pelaksanaan dapat dilakukan secara efisien dalam satu alur kerja.",
       },
       3: {
-        title: "Analisis Data & Laporan Akurat",
+        title: "Laporan Komprehensif",
         description:
           "Dapatkan hasil penilaian secara otomatis dan real time. Sistem menyajikan analisis statistik yang mendalam dan transparan, memudahkan Anda mengevaluasi performa peserta secara objektif dan akurat.",
       },
@@ -59,32 +59,32 @@ const id = {
       1: {
         title: "Lingkungan Ujian Aman",
         description:
-          "Latihan.id menerapkan kontrol ujian yang ketat untuk meminimalkan kecurangan dan memastikan keadilan.",
+          "Latihan.id menghadirkan kontrol ujian berbasis sistem untuk menjaga integritas pelaksanaan ujian, meminimalkan kecurangan, dan memastikan hasil valid yang dapat dipertanggungjawabkan.",
       },
       2: {
-        title: "Sistem Terintegrasi",
+        title: "Sistem Terintegrasi dengan LMS",
         description:
-          "Terhubung langsung dengan Edunav untuk pengelolaan alur kerja akademik yang seamless.",
+          "Terhubung langsung dengan Edunav LMS untuk mendukung alur akademik yang terpusat, mulai dari manajemen peserta hingga pelaporan hasil ujian secara seamless.",
       },
       3: {
-        title: "Fleksibel & Efisien",
+        title: "Fleksibilitas Operasional Ujian",
         description:
-          "Dukung ujian terjadwal maupun kuis harian dengan pengaturan operasional yang ringkas.",
+          "Mendukung berbagai skenario pelaksanaan ujian, mulai dari kuis harian hingga ujian berskala besar, dengan pengaturan yang terstruktur dan mudah dikontrol.",
       },
       4: {
-        title: "User-Friendly",
+        title: "Antarmuka intuitif",
         description:
-          "Desain antarmuka yang intuitif dan mudah dipahami oleh siswa, guru, maupun administrator.",
+          "Dirancang untuk mendukung efisiensi kerja tim akademik, dengan alur penggunaan yang jelas dalam setiap tahap manajemen ujian, mulai dari pembuatan soal hingga pelaksanaan ujian.",
       },
       5: {
-        title: "Support SEB",
+        title: "Support Safe Exam Browser (SEB)",
         description:
-          "Kompatibel dengan Safe Exam Browser untuk mengunci browser dan mencegah akses tidak sah.",
+          "Kompatibel penuh dengan Safe Exam Browser untuk menciptakan lingkungan ujian yang lebih aman, membatasi akses ke aplikasi atau sumber eksternal selama ujian berlangsung.",
       },
       6: {
-        title: "Beragam Tipe Soal",
+        title: "Dukungan Beragam Format Soal",
         description:
-          "Fleksibilitas format pertanyaan untuk mengakomodasi berbagai kebutuhan evaluasi.",
+          "Mengakomodasi berbagai tipe soal, termasuk pilihan ganda, esai, hingga format kompleks untuk kebutuhan evaluasi yang lebih komprehensif.",
       },
     },
   },
@@ -94,7 +94,7 @@ const id = {
     description:
       "Latihan.id didesain untuk berjalan mulus di berbagai perangkat dengan sistem keamanan berlapis seperti Kiosk dan Lock Mode untuk menjaga integritas ujian.",
     badges: {
-      supported: "Didukung",
+      supported: "Kompatibel",
       comingSoon: "Segera Hadir",
     },
     platforms: {

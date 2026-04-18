@@ -320,7 +320,7 @@ export default function LandingPage() {
           {/* Text Content */}
           <div className="flex-1 text-left">
             <span className="inline-block text-[#324E74] bg-[#eaedf1] font-bold py-2 px-6 rounded-4xl mb-5 ">
-              ✨{t("hero.span")}
+              {t("hero.span")}
             </span>
             <h1 className="text-4xl md:text-[44px] font-bold mb-6 text-bold leading-tight">
               {t("hero.title")}

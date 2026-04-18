@@ -74,7 +74,8 @@ export default function LogoCarousel() {
                       alt={logo.name}
                       width={180}
                       height={64}
-                      className="max-h-16 max-w-[180px] object-contain filter grayscale hover:grayscale-0 transition-all duration-300"
+                      className="object-contain filter grayscale hover:grayscale-0 transition-all duration-300"
+                      style={{ width: 'auto', height: 'auto', maxWidth: '180px', maxHeight: '64px' }}
                       sizes="180px"
                     />
                   </div>

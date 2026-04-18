@@ -2,9 +2,9 @@ const en = {
   meta: {
     title: "Latihan.id | Secure Online Exam Platform & Integrated CBT",
     description:
-      "Anti-cheating online exam solution (CBT) with camera proctoring, SEB support, and automatic grading analysis. Seamlessly integrated with Edunav for fair assessment.",
+      "A secure Computer-Based Testing (CBT) platform with camera proctoring, Safe Exam Browser support, and automated score analysis. Integrated with Edunav to support fair and reliable assessment.",
     keywords:
-      "online exam platform, cbt software, secure browser, proctoring, anti-cheating, assessment tool, latihan.id, edunav, computer based test, student evaluation",
+      "online exam, cbt platform, secure school exam, proctoring, latihan.id, edunav, assessment system, computer based test, question bank",
   },
   nav: {
     home: "Home",
@@ -16,39 +16,39 @@ const en = {
     language: "Language",
   },
   hero: {
-    span: "Trusted Online Exam & CBT Platform",
-    title: "Online Exam Application with Advanced Proctoring System",
+    span: "A secure and easy-to-use CBT platform for online examinations",
+    title: "Latihan.id Is a Complete Solution for Computer-Based Online Examinations",
     description:
-      "Latihan.id is a CBT (Computer-Based Test)-based online exam solution designed for schools, universities, and training institutions. Equipped with automatic proctoring, an anti-cheat system, and detailed test result analysis reports, Latihan.id helps you administer exams safely, fairly, and efficiently.",
-    cta: "Learn More",
+      "Latihan.id is a Computer-Based Testing (CBT) platform designed for schools and institutions that require a secure, stable, and scalable online examination system for a wide range of assessment needs. It supports daily quizzes, midterm exams, final exams, and competition-based testing through a structured and reliable system.",
+    cta: "Consult Our Team",
     btn_download: "Download App",
     images: {
       user_active:
-        "Illustration of active user community and students using Latihan.id exam platform",
+        "Illustration of an active user community and students using the Latihan.id examination platform",
       main_hero:
-        "Dashboard view of Latihan.id online exam application on laptop and mobile devices",
+        "Dashboard view of the Latihan.id online examination application on laptop and mobile devices",
     },
   },
   About: {
     title: "Why Choose Latihan.id for Computer Based Test (CBT) Exams?",
     description:
-      "Latihan.id is a CBT (Computer-Based Test) platform designed to support online exams, daily quizzes, and learning evaluations in a secure and integrated manner. Directly connected to Edunav LMS, Latihan.id provides a stable, efficient, and easy-to-use digital exam system for schools and educational institutions. Equipped with advanced security features such as an anti-cheating system, automatic violation detection, server-based camera recording, and full support for Safe Exam Browser (SEB), Latihan.id ensures that every exam is fair, controlled, and reliable.",
+      "Latihan.id is a Computer-Based Testing (CBT) platform built for educational institutions that require a high level of security, stability, and control in online examinations. It supports a wide range of assessment scenarios, from daily quizzes to large-scale examinations, through a structured and centralized workflow. With advanced security features such as anti-cheating mechanisms, automatic violation detection, server-based camera recording, and full support for Safe Exam Browser (SEB), Latihan.id helps ensure every exam is conducted fairly, securely, and consistently.",
     feature: {
       1: {
-        title: "Comprehensive & Integrated Features",
+        title: "Comprehensive Features",
         description:
-          "Supports various question types, from multiple choice and essay to complex questions, all equipped with an anti-cheating security system. Everything you need for exam management in one platform.",
-        ALT: "Preview of the Latihan.id interface, a secure and integrated online exam application (CBT).",
+          "Supports a wide range of question formats, from multiple choice and essays to more complex item types, within a single centralized system. Combined with anti-cheating controls, Latihan.id enables a secure, efficient, and well-managed examination process in one CBT platform.",
+        ALT: "Preview of the Latihan.id interface, a secure and integrated online examination application (CBT).",
       },
       2: {
-        title: "Intuitive & User-Friendly Interface",
+        title: "Intuitive Interface",
         description:
-          "Designed with a user-friendly interface accessible to everyone. From creating questions to conducting exams, everything can be done quickly without requiring special technical skills.",
+          "Designed with a clear and structured interface that enables academic teams to manage examinations efficiently without unnecessary complexity. From question creation and exam configuration to execution, every step can be handled through a streamlined workflow.",
       },
       3: {
-        title: "Accurate Data Analysis & Reporting",
+        title: "Comprehensive Reporting",
         description:
-          "Get assessment results automatically and in real time. The system provides in-depth and transparent statistical analysis, making it easy to evaluate participant performance objectively and accurately.",
+          "Access scoring results automatically and in real time. The system provides transparent and in-depth statistical analysis to support objective and accurate evaluation of participant performance.",
       },
     },
   },
@@ -59,42 +59,40 @@ const en = {
       1: {
         title: "Secure Exam Environment",
         description:
-          "Latihan.id implements strict exam controls to minimize cheating and ensure fairness.",
+          "Latihan.id provides system-based exam controls to protect examination integrity, minimize misconduct, and ensure valid, accountable results.",
       },
       2: {
-        title: "Integrated System",
+        title: "Integrated with LMS",
         description:
-          "Connects directly with Edunav for seamless academic workflow management.",
+          "Directly connected with Edunav LMS to support a centralized academic workflow, from participant management to examination result reporting.",
       },
       3: {
-        title: "Flexible & Efficient",
+        title: "Operational Flexibility",
         description:
-          "Supports scheduled exams or daily quizzes with concise operational settings.",
+          "Supports various examination scenarios, from daily quizzes to large-scale exams, with structured settings that are easy to control.",
       },
       4: {
-        title: "User-Friendly",
+        title: "Intuitive Interface",
         description:
-          "An intuitive interface design that is easy to understand for students, teachers, and administrators.",
+          "Designed to improve academic team efficiency with a clear workflow across every stage of exam management, from question authoring to exam delivery.",
       },
       5: {
-        title: "SEB Support",
+        title: "Safe Exam Browser Support",
         description:
-          "Compatible with Safe Exam Browser to lock the browser and prevent unauthorized access.",
+          "Fully compatible with Safe Exam Browser to create a more secure examination environment by restricting access to external applications and resources during the exam.",
       },
       6: {
-        title: "Diverse Question Types",
+        title: "Support for Multiple Question Formats",
         description:
-          "Format flexibility to accommodate various evaluation needs.",
+          "Accommodates a wide variety of question types, including multiple choice, essay, and more complex formats for broader assessment needs.",
       },
     },
-    mockup_alt_2:
-      "Display of score analysis and student report feature interface in Latihan.id",
   },
   deviceSupport: {
     tag: "Multi-Platform Ecosystem",
     title: "Secure Exams on Any Device",
     description:
-      "Latihan.id is designed to run smoothly across devices with layered security features like Kiosk and Lock Mode to protect exam integrity.",
+      "Latihan.id is designed to run reliably across devices, supported by layered security features such as Kiosk and Lock Mode to protect exam integrity.",
     badges: {
       supported: "Supported",
       comingSoon: "Coming Soon",
@@ -102,50 +100,50 @@ const en = {
     platforms: {
       web: {
         title: "Web Application",
-        desc: "The solution for easy exam access via a browser without the hassle of downloading an application.",
+        desc: "A practical solution for secure exam access through modern browsers without requiring application installation.",
         imageAlt:
-          "Latihan.id web application interface for secure online exams in a desktop or laptop browser",
+          "Latihan.id web application interface for secure online examinations through a browser on desktop or laptop devices",
         imageCaption:
-          "Access secure Latihan.id online exams directly from modern browsers with a responsive exam experience.",
+          "Access Latihan.id examinations directly through modern browsers with a secure and responsive user experience.",
       },
       ios: {
         title: "iOS & iPadOS",
-        desc: "Lock Assessment mode ensures students cannot switch apps during the exam session.",
+        desc: "Lock Assessment mode helps ensure students cannot switch to other applications during an examination session.",
         imageAlt:
-          "Latihan.id exam interface on iPad with lock assessment mode for secure online testing",
+          "Latihan.id interface on iPad for secure online examinations with Lock Assessment mode enabled",
         imageCaption:
-          "Lock Assessment mode on iOS and iPadOS helps students stay focused throughout secure exam sessions.",
+          "Lock Assessment mode on iOS and iPadOS helps maintain student focus throughout the examination session.",
       },
       android: {
         title: "Android Kiosk",
-        desc: "Locks the device fully into the Latihan app for maximum security during CBT exams.",
+        desc: "Locks the device entirely into the Latihan application to support maximum security during CBT sessions.",
         imageAlt:
-          "Latihan.id Android Kiosk application for secure CBT exams with the device locked during testing",
+          "Latihan.id Android Kiosk application for secure CBT exams with the device locked during the examination",
         imageCaption:
-          "Android Kiosk locks the device into Latihan.id to reduce distractions and strengthen exam security.",
+          "Android Kiosk locks the device into Latihan.id to reduce distractions and strengthen examination security.",
       },
       desktop: {
         title: "MacOS & Windows",
-        desc: "A native desktop application with deeper operating system integration features.",
+        desc: "A native desktop application designed for deeper operating system integration.",
         imageAlt:
-          "Latihan.id desktop application preview for macOS and Windows secure online exam environments",
+          "Preview of the Latihan.id desktop application for macOS and Windows in a secure online examination environment",
         imageCaption:
-          "The native macOS and Windows application is prepared for deeper operating system level exam controls.",
+          "The native MacOS and Windows application is prepared to support deeper system-level integration.",
       },
     },
   },
   blog: {
     readmore: "Read More",
-    tag: "Latest news",
-    title: "Insights & Latest News",
+    tag: "Latest News",
+    title: "Insights & Latest Updates",
     "sub-title":
-      "Stay informed with the latest developments in education, technology, and school management.",
+      "Stay informed with the latest developments in education, technology, and school development.",
   },
   testimonials: {
     name: "Bella",
     role: "SMP Kharisma Bangsa School",
     description:
-      "The feature I like most about LATIHAN.ID is its Exam feature. It is a complete exam platform with camera monitoring, robust answer options, the ability for students to message the exam committee, and instant access to student exam data upon completion.",
+      "The feature I value most in LATIHAN.ID is the Exam module. It provides a complete examination platform with camera monitoring, well-structured answer options, a communication channel for students to contact the exam committee, and immediate access to student exam records after submission.",
   },
   contact: {
     title: "Contact Us",
@@ -156,7 +154,7 @@ const en = {
   popup: {
     title: "Welcome to Latihan.id",
     description:
-      "You can download the LatihanID app on the Play Store and App Store. If you encounter any issues, please contact the admin via",
+      "You can download the Latihan.id application from Google Play Store and Apple App Store. If you experience any issues, please contact the administrator via",
     btn_close: "Close",
     badges: {
       play_store: "Download Latihan.id app on Google Play Store",
@@ -171,12 +169,12 @@ const en = {
     copied: "Link Copied!",
     contact: {
       title: "Ready to Transform Your School?",
-      desc: "Consult your school's digitalization needs with our expert team.",
+      desc: "Discuss your school's digital transformation needs with our expert team.",
       button: "Contact Us",
     },
-    other_article: "Related Articles",
-    alret: "No related articles found.",
-    tags: "There are no tags",
+    other_article: "Other Articles",
+    alret: "No related articles available yet.",
+    tags: "No tags available",
     backButton: "Back to Home",
   },
 };
