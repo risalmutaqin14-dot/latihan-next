@@ -69,7 +69,7 @@ export default function BlogPost() {
   const [mounted, setMounted] = useState(false);
 
   // URL API WordPress Anda
-  const WP_API_URL = "https://www.blog.latihan.id/wp-json/wp/v2";
+  const WP_API_URL = "https://blog.latihan.id/wp-json/wp/v2";
 
   useEffect(() => {
     setMounted(true);
